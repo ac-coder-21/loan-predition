@@ -1,2 +1,2 @@
 # loan-predition
-Loan Prediction system using Python, HTML, CSS and Machine Learning.
+Loan Prediction Analysis system. Developed as a part of Internship with Code Clause.
